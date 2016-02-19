@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7287863
+  brandStrength: 0.2056924
+  lightness: 0.6761547
+  rhythmicContrast: 0.7803437
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.3474758
+name: Port 1
