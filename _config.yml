@@ -23,7 +23,7 @@ color:
     - '#94abad'
     - '#38648d'
   brandStrength: 0.6875
-  lightness: 0.6761547
-  saturation: 0.7287863
-  rhythmicContrast: 0.7803437
+  lightness: 0.25
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
