@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[WGC Portfolio Grid]]></title>
         <description><![CDATA[WGC Portfolio Grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/port-1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 02:36:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 03:00:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/port-1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a5f41a0-f67a-445f-8705-3699a9ad7b5d.jpg">]]></description>
-            <link>undefinedbce25c24-8d6d-4ae0-811e-c9807274baa0/index.html</link>
+            <title><![CDATA[Bangkok University Media Center]]></title>
+            <description><![CDATA[<article><h1>Bangkok University Media Center</h1><p>Projects</p></article>]]></description>
+            <link>https://thegrid.ai/port-1/bce25c24-8d6d-4ae0-811e-c9807274baa0/index.html</link>
             <guid isPermaLink="false">bce25c24-8d6d-4ae0-811e-c9807274baa0</guid>
-            <pubDate>Wed, 24 Feb 2016 02:36:22 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 02:59:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
