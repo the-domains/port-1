@@ -4,18 +4,25 @@
         <description><![CDATA[WGC Portfolio Grid]]></description>
         <link>https://thegrid.ai/port-1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 08:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 01:34:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/port-1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Bangkok University Media Center]]></title>
-            <description><![CDATA[<article><h1>Bangkok University Media Center</h1><p>Projects</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f99c13177b1527e4e0c4a8a61012d1c56cde66e5.jpg"></article>]]></description>
+            <title><![CDATA[Studio Room]]></title>
+            <description><![CDATA[<article><h1>Studio Room</h1><p>Projects</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f99c13177b1527e4e0c4a8a61012d1c56cde66e5.jpg"></article>]]></description>
             <link>https://thegrid.ai/port-1/bce25c24-8d6d-4ae0-811e-c9807274baa0/index.html</link>
             <guid isPermaLink="false">bce25c24-8d6d-4ae0-811e-c9807274baa0</guid>
             <pubDate>Wed, 24 Feb 2016 08:05:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[WGC Portfolio Grid]]></title>
+            <description><![CDATA[<article><h1>WGC Portfolio Grid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26257df393d1d37c2fda3080bf28fb3c2e0a0285.jpg"></article>]]></description>
+            <link>https://thegrid.ai/port-1/</link>
+            <guid isPermaLink="false">fa37b07a-401f-4755-9faf-82b30999742e</guid>
+            <pubDate>Wed, 31 Aug 2016 01:34:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[WGC Design Studio]]></title>
-            <description><![CDATA[<article><h1>WGC Design Studio</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9381b562ef2d46b0d2ef2ec0ce73aa36af7b0b5f.png"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75066360-509a-41f3-b2d1-b9442744431c.png">]]></description>
             <link>https://app.thegrid.io/publish?posts=bce25c24-8d6d-4ae0-811e-c9807274baa0</link>
             <guid isPermaLink="false">7d14238f-1a7f-4341-b899-a5b43eb6a034</guid>
             <pubDate>Wed, 24 Feb 2016 08:32:45 GMT</pubDate>
